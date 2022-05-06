@@ -5,7 +5,7 @@ body{
     background-color: antiquewhite;
     margin: 0;
     color: #926239;
-    font-size: 8px;
+    font-size: 8.7px;
    
 }
 .welcome-section{
@@ -45,6 +45,7 @@ body{
 }
 .main-text{
     display: inline-block;
+    box-sizing: border-box;
     font-size: 1.3em;
     width: 100%;
     text-align: center;
